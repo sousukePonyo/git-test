@@ -8,7 +8,6 @@ public class TestGit {
         System.out.println("hello,word3");
         System.out.println("hot-fix change");
         System.out.println("master test merge");
-        System.out.println("master test merge");
         System.out.println("hot-fix test merge");
     }
 
