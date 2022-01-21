@@ -11,6 +11,7 @@ public class TestGit {
         System.out.println("hot-fix test merge");
         System.out.println("master push test");
         System.out.println("master pull test");
+        System.out.println("git test conflict");
     }
 
 }
